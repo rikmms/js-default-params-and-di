@@ -1,0 +1,18 @@
+{
+  "name": "js-default-params-and-di",
+  "version": "1.0.0",
+  "description": "Repository with the source code for my article: JavaScript’s default parameters and Dependency Injection",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rikmms@github.com/rikmms/js-default-params-and-di.git"
+  },
+  "author": "rikmms <sousa.ricardo10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rikmms/js-default-params-and-di/issues"
+  },
+  "homepage": "https://github.com/rikmms/js-default-params-and-di#readme"
+}
