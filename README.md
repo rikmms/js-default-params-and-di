@@ -1,2 +1,1 @@
-# JavaScript’s default parameters and Dependency Injection
-Repository with the source code for my article: JavaScript’s default parameters and Dependency Injection
+# How to take advantage of JavaScript’s default parameters for Dependency Injection
